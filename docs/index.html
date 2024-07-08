@@ -26,32 +26,7 @@
             <th scope="col">判定時間</th>
           </tr>
         </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Unit01</th>
-            <td>OFF</td>
-            <td>-5.0</td>
-            <td>1h</td>
-          </tr>
-          <tr>
-            <th scope="row">Unit02</th>
-            <td>OFF</td>
-            <td>-5.0</td>
-            <td>1h</td>
-          </tr>
-          <tr>
-            <th scope="row">Unit03</th>
-            <td>OFF</td>
-            <td>-5.0</td>
-            <td>1h</td>
-          </tr>
-          <tr>
-            <th scope="row">Unit04</th>
-            <td>OFF</td>
-            <td>-5.0</td>
-            <td>1h</td>
-          </tr>
-        </tbody>
+        <tbody id="first-tbody"></tbody>
       </table>
       <table class="table table-striped text-center">
         <thead>
@@ -157,6 +132,18 @@
         { name: 'Unit14', lower: 'OFF', upper: '5.0', judgment: '1h' },
         { name: 'Unit15', lower: 'OFF', upper: '17.0', judgment: '1h' },
       ];
+
+      const firstTbody = document.getElementById('first-tbody');
+      firstList.forEach(el => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <th scope="row">${el.name}</th>
+          <td>${el.lower}</td>
+          <td>${el.upper}</td>
+          <td>${el.judgment}</td>
+        `;
+        firstTbody.appendChild(row);
+      });
     </script>
   </body>
 </html>
