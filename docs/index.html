@@ -77,6 +77,17 @@
         `;
         firstTbody.appendChild(row);
       });
+      const secondTbody = document.getElementById('second-tbody');
+      secondList.forEach(el => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <th scope="row">${el.name}</th>
+          <td>${el.lower}</td>
+          <td>${el.upper}</td>
+          <td>${el.judgment}</td>
+        `;
+        secondTbody.appendChild(row);
+      });
     </script>
   </body>
 </html>
