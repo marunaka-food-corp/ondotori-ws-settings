@@ -101,6 +101,17 @@
         `;
         secondTbody.appendChild(row);
       });
+      const thirdTbody = document.getElementById('third-tbody');
+      thirdList.forEach(el => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <th scope="row">${el.name}</th>
+          <td>${el.lower}</td>
+          <td>${el.upper}</td>
+          <td>${el.judgment}</td>
+        `;
+        thirdTbody.appendChild(row);
+      });
     </script>
   </body>
 </html>
