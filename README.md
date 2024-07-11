@@ -11,14 +11,14 @@
 
 | # | BRD |
 | --- | --- |
-| Unit05 | OFF |
+| Unit05 | 2024/01~06 |
 | Unit06 | - |
 | Unit07 | - |
 | Unit08 | - |
-| Unit09 | OFF |
+| Unit09 | 2024/01~06 |
 | Unit10 | - |
-| Unit11 | OFF |
-| Unit12 | OFF |
+| Unit11 | 2024/01~06 |
+| Unit12 | 2024/01~06 |
 | Unit13 | - |
 
 | # | BRD |
