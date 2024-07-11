@@ -6,6 +6,8 @@
 | --- | --- |
 | Unit01 | OFF |
 | Unit02 | OFF |
+| Unit03 | OFF |
+| Unit04 | OFF |
 
 ## Next Devices to Run Out of Battery
 
