@@ -4,10 +4,10 @@
 
 | # | Battery replacement date |
 | --- | --- |
-| Unit01 | OFF |
-| Unit02 | OFF |
-| Unit03 | OFF |
-| Unit04 | OFF |
+| Unit01 | 2024/01~06 |
+| Unit02 | 2024/01~06 |
+| Unit03 | 2024/01~06 |
+| Unit04 | 2024/01~06 |
 
 | # | 下限値 |
 | --- | --- |
