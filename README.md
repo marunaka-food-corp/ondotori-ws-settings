@@ -2,7 +2,7 @@
 
 ## Devices
 
-| # | 下限値 |
+| # | Battery replacement date |
 | --- | --- |
 | Unit01 | OFF |
 | Unit02 | OFF |
