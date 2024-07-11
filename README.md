@@ -26,6 +26,8 @@
 | Unit14 | - |
 | Unit15 | - |
 
+<small>Battery replacement date</small>
+
 ## Next Devices to Run Out of Battery
 
 - Unit06
