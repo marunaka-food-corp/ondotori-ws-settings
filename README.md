@@ -9,12 +9,17 @@
 | Unit03 | 2024/01~06 |
 | Unit04 | 2024/01~06 |
 
-| # | 下限値 |
+| # | Battery replacement date |
 | --- | --- |
-| Unit01 | OFF |
-| Unit02 | OFF |
-| Unit03 | OFF |
-| Unit04 | OFF |
+| Unit05 | OFF |
+| Unit06 | OFF |
+| Unit07 | OFF |
+| Unit08 | OFF |
+| Unit09 | OFF |
+| Unit10 | OFF |
+| Unit11 | OFF |
+| Unit12 | OFF |
+| Unit13 | OFF |
 
 ## Next Devices to Run Out of Battery
 
