@@ -12,11 +12,11 @@
 | # | BRD |
 | --- | --- |
 | Unit05 | OFF |
-| Unit06 | OFF |
-| Unit07 | OFF |
-| Unit08 | OFF |
+| Unit06 | - |
+| Unit07 | - |
+| Unit08 | - |
 | Unit09 | OFF |
-| Unit10 | OFF |
+| Unit10 | - |
 | Unit11 | OFF |
 | Unit12 | OFF |
 | Unit13 | - |
