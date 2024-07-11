@@ -2,14 +2,14 @@
 
 ## Devices
 
-| # | Battery replacement date |
+| # | BRD |
 | --- | --- |
 | Unit01 | 2024/01~06 |
 | Unit02 | 2024/01~06 |
 | Unit03 | 2024/01~06 |
 | Unit04 | 2024/01~06 |
 
-| # | Battery replacement date |
+| # | BRD |
 | --- | --- |
 | Unit05 | OFF |
 | Unit06 | OFF |
@@ -21,12 +21,12 @@
 | Unit12 | OFF |
 | Unit13 | - |
 
-| # | Battery replacement date |
+| # | BRD |
 | --- | --- |
 | Unit14 | - |
 | Unit15 | - |
 
-<small>Battery replacement date</small>
+<small>BRD: Battery replacement date</small>
 
 ## Next Devices to Run Out of Battery
 
