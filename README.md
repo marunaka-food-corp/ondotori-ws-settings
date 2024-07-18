@@ -26,7 +26,7 @@
 | Unit14 | - |
 | Unit15 | - |
 
-<small>BRD: Battery replacement date</small>
+<small>BRD: Battery Replacement Date</small>
 
 ## Next Devices to Run Out of Battery
 
