@@ -14,7 +14,7 @@
 | Unit05 | 2024/01~06 |
 | Unit06 | - |
 | Unit07 | - |
-| Unit08 | - |
+| Unit08 | 2024/07 |
 | Unit09 | 2024/01~06 |
 | Unit10 | - |
 | Unit11 | 2024/01~06 |
@@ -30,5 +30,5 @@
 
 ## Next Devices to Run Out of Battery
 
-- Unit06 / Unit07 / Unit08 / Unit10
+- Unit06 / Unit07 / Unit10
 - Unit13 / Unit14 / Unit15
