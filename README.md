@@ -32,3 +32,8 @@
 
 - Unit06 / Unit07 / Unit10
 - Unit13 / Unit14 / Unit15
+
+## Pages
+
+- 設定値
+- バッテリー交換日
