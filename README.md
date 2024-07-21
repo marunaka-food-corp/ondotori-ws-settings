@@ -1,5 +1,5 @@
 # ondotori-ws-settings
-おんどとり用リポジトリ
+おんどとり設定用リポジトリ
 
 ## Next
 
