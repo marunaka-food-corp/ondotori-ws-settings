@@ -1,6 +1,6 @@
 # ondotori-ws-settings
 
-## Next Devices to Run Out of Battery
+## Next
 
 - Unit06 / Unit07 / Unit10
 - Unit13 / Unit14 / Unit15
