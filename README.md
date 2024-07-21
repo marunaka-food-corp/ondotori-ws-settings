@@ -1,4 +1,5 @@
 # ondotori-ws-settings
+おんどとり
 
 ## Next
 
