@@ -1,7 +1,7 @@
 # ondotori-ws-settings
 おんどとり設定用リポジトリ
 
-## Next changes
+## Next
 
 - Unit06 / Unit07 / Unit10
 
