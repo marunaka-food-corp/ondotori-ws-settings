@@ -3,7 +3,7 @@
 
 ## Next 1
 
-- Unit06 / Unit07 / Unit10
+- Unit06
 
 ## Next 2
 
