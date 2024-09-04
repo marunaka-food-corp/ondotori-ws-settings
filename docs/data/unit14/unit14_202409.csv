@@ -1,2 +1,7 @@
 datetime,timing,temperature
 2024-09-02 22:25,after,1.1
+2024-09-03 04:55,before,0.7
+2024-09-03 12:05,working,11.7
+2024-09-03 18:05,after,2.0
+2024-09-04 04:55,before,1.0
+2024-09-04 12:05,working,9.0
