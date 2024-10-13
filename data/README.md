@@ -6,6 +6,21 @@
 
 - https://github.com/marunaka-food-corp/ondotori-ws-settings/tree/main/docs/data
 
+```bash
+data/
+├── unit01
+│   ├── unit01_202409.csv
+│   └── unit01_202410.csv
+├── unit02
+│   ├── unit02_202409.csv
+│   └── unit02_202410.csv
+├── unit03
+│   ├── unit03_202409.csv
+│   └── unit03_202410.csv
+├── unit04
+...
+```
+
 ## 2. ダウンロード方法
 
 ### 2-1. UIからダウンロードする
