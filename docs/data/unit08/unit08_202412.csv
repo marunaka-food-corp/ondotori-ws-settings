@@ -90,3 +90,5 @@ datetime,timing,temperature
 2024-12-30 12:11,working,1.4
 2024-12-30 18:01,after,1.8
 2024-12-31 04:51,before,1.6
+2024-12-31 12:01,working,0.7
+2024-12-31 18:01,after,0.6
